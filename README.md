@@ -29,4 +29,9 @@ A simple web application that displays a set of Q&As and allows users to ask que
     python main.py
 5. Try out the Q&A bot at `http://localhost:8000`. 
 
-6. Finish the server process by pressing `Ctrl+C`. 
+6. Finish the server process by pressing `Ctrl+C`.
+
+## Results
+<img src="images/demo_fig1.png" alt="Example1" width="400">
+<br>
+<img src="images/demo_fig2.png" alt="Example2" width="400">
